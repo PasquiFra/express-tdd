@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "username": "giuseppe.verdi",
+        "password": "password",
+        "admin": true
+    },
+    {
+        "id": 2,
+        "username": "maria.rossi",
+        "password": "password",
+        "admin": false
+    },
+    {
+        "id": 3,
+        "username": "luca.bianchi",
+        "password": "password",
+        "admin": false
+    },
+    {
+        "id": 4,
+        "username": "anna.verdi",
+        "password": "password",
+        "admin": true
+    },
+    {
+        "id": 5,
+        "username": "paolo.neri",
+        "password": "password",
+        "admin": false
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "title": "Introduction to Bitcoin",
+        "slug": "introduction-to-bitcoin",
+        "content": "Bitcoin is a decentralized digital currency that you can buy, sell, and exchange directly, without an intermediary like a bank.",
+        "image": "bitcoin.png",
+        "tags": [
+            "Bitcoin",
+            "Cryptocurrency",
+            "Digital Currency"
+        ]
+    },
+    {
+        "title": "How Bitcoin Mining Works",
+        "slug": "how-bitcoin-mining-works",
+        "content": "Bitcoin mining is the process by which new bitcoins are entered into circulation, and it is also a critical component of the maintenance and development of the blockchain ledger.",
+        "image": "btc-mining.jpg",
+        "tags": [
+            "Bitcoin",
+            "Mining",
+            "Blockchain"
+        ]
+    },
+    {
+        "title": "Bitcoin vs Ethereum",
+        "slug": "bitcoin-vs-ethereum",
+        "content": "While both Bitcoin and Ethereum operate on the blockchain technology, they have different purposes and design philosophies.",
+        "image": "btc-eth.jpg",
+        "tags": [
+            "Bitcoin",
+            "Ethereum",
+            "Cryptocurrency Comparison"
+        ]
+    },
+    {
+        "title": "The Future of Bitcoin",
+        "slug": "the-future-of-bitcoin",
+        "content": "Experts are divided on what the future holds for Bitcoin, but there is no denying its influence on the financial world.",
+        "image": "bitcoin.png",
+        "tags": [
+            "Bitcoin",
+            "Future",
+            "Cryptocurrency"
+        ]
+    },
+    {
+        "title": "Understanding Bitcoin Wallets",
+        "slug": "understanding-bitcoin-wallets",
+        "content": "Bitcoin wallets are digital wallets that store your private keys, enabling you to send and receive bitcoins and monitor your balance.",
+        "image": "btc-wallet.png",
+        "tags": [
+            "Bitcoin",
+            "Wallets",
+            "Cryptocurrency"
+        ]
+    },
+    {
+        "title": "Introduction to Ethereum",
+        "slug": "introduction-to-ethereum",
+        "content": "Ethereum is an open-source, blockchain-based platform that enables developers to build and deploy decentralized applications (dApps).",
+        "image": "eth.png",
+        "tags": [
+            "Ethereum",
+            "Blockchain",
+            "dApps"
+        ]
+    },
+    {
+        "title": "How Ethereum Smart Contracts Work",
+        "slug": "how-ethereum-smart-contracts-work",
+        "content": "Smart contracts are self-executing contracts with the terms of the agreement directly written into code. They run on the Ethereum blockchain.",
+        "image": "eth-contract.png",
+        "tags": [
+            "Ethereum",
+            "Smart Contracts",
+            "Blockchain"
+        ]
+    },
+    {
+        "title": "Ethereum 2.0: What You Need to Know",
+        "slug": "ethereum-2-what-you-need-to-know",
+        "content": "Ethereum 2.0 is an upgrade to the Ethereum blockchain that aims to improve the scalability, security, and sustainability of the network.",
+        "image": "eth.png",
+        "tags": [
+            "Ethereum",
+            "Ethereum 2.0",
+            "Blockchain"
+        ]
+    },
+    {
+        "title": "Understanding Ethereum Gas Fees",
+        "slug": "understanding-ethereum-gas-fees",
+        "content": "Gas fees are the transaction fees that users pay to miners on the Ethereum blockchain to have their transactions included in a block.",
+        "image": "eth-gas.png",
+        "tags": [
+            "Ethereum",
+            "Gas Fees",
+            "Blockchain"
+        ]
+    }
+]
