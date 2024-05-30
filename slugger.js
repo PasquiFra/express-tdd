@@ -1,6 +1,14 @@
 module.exports = (title, posts) => {
 
-    const baseSlug = title.trim().replaceAll(' ', '-').toLowerCase()
+    if (posts === null || posts === undefined) {
+        throw new Error('Non ho trovato i posts');
+    }
+
+    if (typeof title !== 'string') {
+        throw new Error('Il titolo non può essere un numero');
+    }
+
+    const baseSlug = title.trim().replaceAll(' ', '-').replaceAll('/', '-').toLowerCase()
 
     if (!baseSlug) {
         throw new Error('Il titolo non è del formato corretto');
