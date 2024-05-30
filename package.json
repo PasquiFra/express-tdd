@@ -1,19 +1,16 @@
 {
-  "name": "express-blog-auth",
+  "name": "express-tdd",
   "version": "1.0.0",
-  "description": "Setting authentication with express.js",
-  "main": "app.js",
+  "description": "TDD testing",
+  "main": "slugger.js",
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "nodemon slugger.js",
+    "test": "jest --watchAll"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.4.5",
-    "express": "^4.19.2",
-    "jsonwebtoken": "^9.0.2",
-    "multer": "^1.4.5-lts.1",
     "nodemon": "^3.1.2"
   },
   "devDependencies": {
