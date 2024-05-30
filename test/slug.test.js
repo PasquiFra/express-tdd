@@ -27,6 +27,6 @@ test("createSlug dovrebbe ritornare una stringa in lowercase", () => {
 
 test("createSlug dovrebbe ritornare una stringa con gli spazi sostituiti da -", () => {
 
-    expect(slugger('Title', posts)).toBe("title");
+    expect(slugger('Bitcoin is Digital Gold ', posts)).toBe("bitcoin-is-digital-gold");
 
 })

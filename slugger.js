@@ -1,6 +1,6 @@
 module.exports = (title, posts) => {
 
-    const baseSlug = title.toLowerCase().trim()
+    const baseSlug = title.trim().replaceAll(' ', '-').toLowerCase()
 
     if (!baseSlug) {
         throw new Error('Il titolo non è del formato corretto');
